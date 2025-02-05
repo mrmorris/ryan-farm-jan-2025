@@ -2,5 +2,5 @@
 
 ---
 
-* not so much with the tea, please
-* Loves Coffee
+* Loves Black Tea (Maybe not so much)
+* And Coffee
