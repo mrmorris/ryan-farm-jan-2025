@@ -2,4 +2,5 @@
 
 ---
 
+Straw Hat: true
 Tools: None
