@@ -3,3 +3,4 @@
 ---
 
 Job: Kill rats
+Legs: 4
