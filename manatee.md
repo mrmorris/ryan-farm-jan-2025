@@ -1,6 +1,6 @@
-# Manatee man
+# Manatee Person
 
 ---
 
-* Loves Black Tea
+* Loves Black Tea (Maybe not so much)
 * And Coffee
