@@ -1,5 +1,6 @@
-# Manatee man
+# Manatee Person
 
 ---
 
-* Loves Tea
+* not so much with the tea, please
+* Loves Coffee
